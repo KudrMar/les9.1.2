@@ -1,6 +1,6 @@
 # Webpack5
-![CI](https://github.com/KudrMar/les9.1.2/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/KudrMar/les9.3/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/okfki984nondrac1?svg=true)](https://ci.appveyor.com/project/KudrMar/les9-3)
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+https://kudrmar.github.io/les9.3/
 
